@@ -5,4 +5,4 @@ Seth and Tom have asked us to calculate various metrics and do analysis on a ele
 How many votes were cast in this congressional election?
 Total Votes: 369,711
   We used a with statment to read and convert from the election_results.csv file to a list of dictionairies. We then used a for loop to count the number of votes.
-![alt text]https://github.com/Jcenno/Election_Analysis/blob/5e395f5054f00a4cbe7f64504e03789b22f44407/Resources/Election%20Results.jpg
+![alt text]https://github.com/Jcenno/Election_Analysis/blob/5e395f5054f00a4cbe7f64504e03789b22f44407/Resources/Election%20Results.jpgResources/Election Results.jpg
