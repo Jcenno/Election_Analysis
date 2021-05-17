@@ -3,7 +3,6 @@
 Seth and Tom have asked us to calculate various metrics and do analysis on a election_results.csv file they have provided. This analysis will be presented to the election commission. Specifically the election commission has asked for the vote turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. Below I will demonstrate the methods I used to find the answer to the questions requested as well as my analysis of the results.
 ## Election-Audit Results:
 - How many votes were cast in this congressional election?
-
  - Total Votes: 369,711
 
 - We used a with statment to read and convert from the election_results.csv file to a list of dictionairies. We then used a for loop to count the number of votes as shown below.
@@ -15,7 +14,6 @@ Seth and Tom have asked us to calculate various metrics and do analysis on a ele
 ![alt text](https://github.com/Jcenno/Election_Analysis/blob/3295dbcabba89f1ed4747330d7e5f669c97aecb5/Resources/County%20Votes.jpg)
 
 - As we can see in the image above, Denver has the largest number of total votes.
-
  - The number of votes and the percentage of tatal votes each candidate recieved:
   Charles Casper Stockham: 23.0% (85,213)
   Diana DeGette: 73.8% (272,892)
