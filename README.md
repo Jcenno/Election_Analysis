@@ -25,6 +25,9 @@ Looking at this data we can see that the winner is Diana DeGette with 272,892 vo
 
 ![alt text](https://github.com/Jcenno/Election_Analysis/blob/a612c199bf5f504adda24a0d63d4c88c0512fd6e/Resources/Winning%20Percentage.jpg)
 
+1. You could use the CSV file to find out how each candidate performed in each county.
+2. We could create another field in the CSV file as a row to label party affiliation and then calculate the percentage of votes that went to each party.
+
 
 
   
